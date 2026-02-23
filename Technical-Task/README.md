@@ -25,7 +25,7 @@ My analysis reveals a pivotal bullish shift starting in 2021, with the stock rea
 ## Assumptions & Limitations
 
 * All financial figures are denominated in Saudi Riyals (SR).
-* The data assumes historical prices are adjusted for stock splits or dividends to maintain comparative accuracy.
+* Prices are not adjusted for stock splits or dividends to maintain comparative accuracy.
 * This is a purely technical analysis and does not account for sudden macroeconomic shifts or geopolitical events.
 
 
