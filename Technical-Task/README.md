@@ -18,7 +18,7 @@ To ensure the integrity of the insights, I executed the following technical work
 
 ## Key Insights & Technical Analysis
 
-My analysis reveals a pivotal bullish shift starting in 2021, with the stock reaching significant peaks near **97.50 SR**. Despite a period of high volatility and price correction in 2022, the data from 2024 and 2025 indicate a strong phase of stabilization and recovery.
+My analysis reveals a pivotal bullish shift starting in 2021, with the stock reaching an all-time high of **110.00 SR** in 2025. Despite a period of high volatility and price correction in 2022 **(-16%)**, the data from 2024 and 2025 indicate a strong phase of stabilization and recovery, closing the period at **97.50 SR**.
 
 * **Strategic Recommendation:** Based on the positive momentum observed in the "Last 12 Months" trend, the stock shows resilience. Stakeholders should watch the high-volume support levels from past fluctuations as indicators for long-term investment positioning.
 
@@ -31,7 +31,8 @@ My analysis reveals a pivotal bullish shift starting in 2021, with the stock rea
 
 
 ### Dashboard Preview
-![لقطة الشاشة 2026-02-23 231617](https://github.com/user-attachments/assets/8c04148b-5e90-4c58-a313-18722b102f3f)
+![لقطة الشاشة 2026-02-23 234813](https://github.com/user-attachments/assets/9d8b4b95-53ea-45b5-abc2-38f169987c0c)
+
 
 
 
